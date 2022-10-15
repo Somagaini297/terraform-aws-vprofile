@@ -47,7 +47,7 @@ variable dbpass {
     default = "admin123"
 }
 
-varable instance_count {
+variable instance_count {
     default = "1"
 }
 
@@ -71,7 +71,7 @@ variable vpcCIDR {
     default = "172.21.0.0/16"
 }
 
-varibale PubSub1CIDR {
+variable PubSub1CIDR {
     default = "172.21.1.0/24"
 }
 
